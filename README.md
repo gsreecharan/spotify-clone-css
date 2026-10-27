@@ -41,7 +41,7 @@ This project focuses on replicating Spotify's core desktop player layout, visual
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/gsreecharan/spotify-clone-css.git](https://github.com/gsreecharan/spotify-clone-css.git)
+   git clone https://github.com/gsreecharan/spotify-clone-css.git
    cd spotify-clone-css
    ```
 2. Open `index.html` directly in any web browser, or launch it using the VS Code Live Server extension.
